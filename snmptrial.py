@@ -1,4 +1,4 @@
-#Emerson Drapac IT462
+
 #This script uses the pysnmp library to poll SNMP data given a community string and an OID
 from pysnmp.entity.rfc3413.oneliner import cmdgen 
 import datetime
