@@ -1,4 +1,4 @@
-#Emerson Drapac IT 462
+
 #This Program will SSH to pre-configured router interfaces and configure FastEthernet0/0 on both routers and then configure SNMP services
 import time
 import paramiko
